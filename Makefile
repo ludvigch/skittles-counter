@@ -1,5 +1,5 @@
 # Written by teachers and TA's of IS1200
-# This copyright notice added 2015 by M Falke
+# This copyright notice added 2015 by M F
 # For copyright and licensing, see file COPYING
 
 # PIC32 device number
@@ -11,7 +11,7 @@ TTYBAUD		?=115200
 
 # Name of the project
 PROGNAME	= rainbow
-#^edited by L Christensen
+#^edited by L C
 
 # Linkscript
 LINKSCRIPT	:= p$(shell echo "$(DEVICE)" | tr '[:upper:]' '[:lower:]').ld
