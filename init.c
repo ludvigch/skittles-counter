@@ -1,6 +1,6 @@
 ///*==========================================================*/
 /*  File: init.c
-/*  Authors: Martin Falke & Ludvig Christensen
+/*  Authors: Martin F & Ludvig C
 /*  Written: 2017
 /*  Most recent update: 2017-03-01 by MF
 /*
